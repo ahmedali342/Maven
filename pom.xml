@@ -37,9 +37,9 @@
   </build>
   
   <distributionManagement>
-   <Snapshotrepository>
-      <id>samplesnap</id>
-      <url>http://192.168.21.130:8081/repository/samplesnap</url>
-   </Snapshotrepository>
+   <Releaserepository>
+      <id>samplerelease</id>
+      <url>http://192.168.21.130:8081/repository/samplerelease</url>
+   </Releaserepository>
 </distributionManagement>
 </project>
